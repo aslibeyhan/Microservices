@@ -20,7 +20,7 @@ You can download the project by selecting the "Download ZIP" option from the "Co
 Now, your project is ready for development.
 
 **Note: 
-This project is developed at a basic level for those who are just starting to learn Java & React Fullstack. If you want to contribute at an advanced level, please feel free to provide feedback in the Issues section.**
+This project is developed at a basic level for those who are just starting to learn Microservices. If you want to contribute at an advanced level, please feel free to provide feedback in the Issues section.**
 
 ## Author
 <a href="https://github.com/aslibeyhan">
